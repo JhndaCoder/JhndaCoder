@@ -35,9 +35,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhndaCoder&theme=tokyonight" alt="JhndaCoder" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhndaCoder&theme=tokyonight" alt="JhndaCoder" width = "31%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" width = 68% />
 
 ## Let's Connect :handshake:
 
