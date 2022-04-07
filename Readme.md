@@ -3,7 +3,7 @@
 <h3 align="center">I don't want what I wish, I want what I work for 😶‍🌫️</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JhndaCoder)](https://github.com/JhndaCoder)
 
@@ -27,10 +27,17 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="Cpp" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="HTML" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 |--|--|--|--|--|
 
+
+**Libraries and Frameworks**
+
+<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
+|--|--|
+
 **Tools**
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
 |--|--|--|--|
+
 <br>
 
 ## Some of my stats :bar_chart:
