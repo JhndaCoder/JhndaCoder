@@ -24,18 +24,18 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="Cpp" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="HTML" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img alt="Cpp" title="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img alt="HTML" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Sass" title="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
 |--|--|--|--|--|--|
 
 
 **Libraries and Frameworks**
 
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
 |--|--|
 
 **Tools**
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">|<img title="git" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">
 |--|--|--|--|--|--|
 
 <br>
