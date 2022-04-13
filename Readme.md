@@ -30,12 +30,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
-|--|--|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">
+|--|--|--|
 
 **Tools**
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">
 |--|--|--|--|--|--|
 
 <br>
