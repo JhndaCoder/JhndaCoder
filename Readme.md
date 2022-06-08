@@ -5,8 +5,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JhndaCoder)](https://github.com/JhndaCoder)
-
+<img width="3000" height="auto" align="center" alt="JhndaCoder's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=JhndaCoder&row=1&column=6&theme=darkhub&margin-w=15e" />
 ## About me 😎
 
 - 🏊 Currently deep diving in **JavaScript**
@@ -27,8 +27,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">
-|--|--|--|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">|<img alt="ReactJS" title="ReactJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+|--|--|--|--|
 
 **Tools and Softwares**
 
