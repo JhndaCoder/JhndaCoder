@@ -39,12 +39,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-  <img src = "https://activity-graph.herokuapp.com/graph?username=JhndaCoder&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=JhndaCoder&theme=gotham&hide_border=true&area=true" width = 800>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhndaCoder&theme=tokyonight" alt="JhndaCoder" width = "31%"/>
- <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" width = 68% />
-
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=JhndaCoder&theme=dark&hide_border=true" width = 400>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhndaCoder&langs_count=8&theme=gotham&layout=compact" alt="JhndaCoder" width = "42%"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=JhndaCoder&theme=gotham&hide_border=false" width = "50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" width = 65%/>
   
 ## Let's Connect :handshake:
 
