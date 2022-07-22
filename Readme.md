@@ -5,15 +5,15 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
 
-<img width="3000" height="auto" align="center" alt="JhndaCoder's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=JhndaCoder&row=1&column=6&theme=darkhub&margin-w=15e" />
+<img height="auto" align="center" alt="JhndaCoder's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=JhndaCoder&row=1&column=7&theme=darkhub&margin-w=15e" />
 ## About me 😎
 
-- 🏊 Currently deep diving in **JavaScript**
+- 🏊 Currently deep diving in **Web3**
 - 🌱 I just started **LeetCode** and **DSA**
 - 🏃 I love to participate in **hackathons**
 - 😁 I am part time **student** and full time **memer**
-- 🛌 I am a wanna be **Mern Stack Developer**
+- 🛌 I am a wanna be **Full Stack Web3 Developer**
 - 💌 Mail me at **agoyal3_be21@thapar.edu** to contact me.
 
 ## Skill Set :muscle:
