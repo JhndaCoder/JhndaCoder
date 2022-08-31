@@ -27,8 +27,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">|<img alt="ReactJS" title="ReactJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-|--|--|--|--|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Docsify" alt="git" width="40px" src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4">|<img alt="ReactJS" title="ReactJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img alt="EthersJs" title="EthersJs" width="40px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png">|<img alt="Truffle" title="Truffle" width="40px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png">|<img alt="HardHat" title="HardHat" width="40px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
+|--|--|--|--|--|--|--|
 
 **Tools and Softwares**
 
