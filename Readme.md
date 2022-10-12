@@ -3,10 +3,10 @@
 <h3 align="center">I don't want what I wish, I want what I work for 😶‍🌫️</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JhndaCoder&label=Profile%20views&color=0e75b6&style=flat" alt="JhndaCoder" />
 
 <img height="auto" align="center" alt="JhndaCoder's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=JhndaCoder&row=1&column=6&theme=darkhub&margin-w=15e" />
+         src="https://github-profile-trophy.vercel.app/?username=JhndaCoder&row=1&column=7&theme=darkhub&margin-w=15e" />
 ## About me 😎
 
 - 🏊 Currently deep diving in **Web3**
