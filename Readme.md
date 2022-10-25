@@ -45,6 +45,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=JhndaCoder&theme=gotham&hide_border=false" width = "50%">
     <img src="https://github-readme-stats.vercel.app/api?username=JhndaCoder&show_icons=true&theme=gotham" alt="JhndaCoder" width = 65%/>
   
+  ## My Holopin Board
+ <p align="center"> <img src = "https://holopin.me/@jhndacoder"> </p>
+
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/amit-goyal~/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/_amit_x_goyal_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt width="40"></a>|<a href = "https://discord.com/users/Safed%20Jhnda#4758"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" width ="50">
